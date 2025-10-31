@@ -1,0 +1,26 @@
+# ==========================
+# GITIGNORE PARA PROJETOS JAVA (ECLIPSE)
+# ==========================
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos compilados (Java bytecode)
+bin/
+build/
+out/
+target/
+
+# Arquivos de sistema (Windows / macOS)
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
